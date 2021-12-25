@@ -283,6 +283,7 @@ DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.12)
   jekyll-include-cache
+  jekyll-remote-theme
   minimal-mistakes-jekyll
 
 BUNDLED WITH
