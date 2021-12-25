@@ -4,14 +4,15 @@ source "https://rubygems.org"
 
 # gem "rails"
 
-# gem 'jekyll-theme-slate', '~> 0.2.0'
-
 gem "minimal-mistakes-jekyll"
-gem "jekyll-remote-theme"
 
 gem "github-pages", group: :jekyll_plugins
-gem "jekyll-include-cache", group: :jekyll_plugins
+
+gem "jekyll-github-metadata"
+
+gem 'dotenv-rails', groups: [:development, :test]
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-seo-tag", "~> 2.6"
 end
