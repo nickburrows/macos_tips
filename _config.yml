@@ -13,7 +13,7 @@ github_username: nickburrows
 show_downloads: "false" # ["true" or "false" (unquoted) to indicate whether to provide a download URL]
 # google_analytics: [Your Google Analytics tracking ID]
 
-# theme: jekyll-theme-slate
+theme: jekyll-theme-slate
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jekyll-feed
