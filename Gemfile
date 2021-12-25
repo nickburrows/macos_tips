@@ -4,12 +4,12 @@ source "https://rubygems.org"
 
 # gem "rails"
 
-gem 'jekyll-theme-slate', '~> 0.2.0'
+# gem 'jekyll-theme-slate', '~> 0.2.0'
 
-gem "github-pages", group: :jekyll_plugins
-
-gem 'jekyll-remote-theme', '~> 0.4.3'
+gem "minimal-mistakes-jekyll"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+  gem "github-pages"
+  gem "jekyll-include-cache"
 end
