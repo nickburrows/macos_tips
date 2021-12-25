@@ -1,4 +1,4 @@
-title: HHHHHHHAAA!!
+title: LALALALALALA!!
 email: r951236958@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -13,11 +13,12 @@ github_username: nickburrows
 show_downloads: "false" # ["true" or "false" (unquoted) to indicate whether to provide a download URL]
 # google_analytics: [Your Google Analytics tracking ID]
 
-theme: jekyll-theme-slate
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-include-cache
+  
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
