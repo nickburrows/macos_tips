@@ -13,13 +13,15 @@ github_username: nickburrows
 show_downloads: "false" # ["true" or "false" (unquoted) to indicate whether to provide a download URL]
 # google_analytics: [Your Google Analytics tracking ID]
 
-theme: minimal-mistakes-jekyll
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
 # remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - "jekyll-github-metadata"
+  - jekyll-github-metadata
+  - jekyll-include-cache
   
 # Exclude from processing.
 # The following items will not be processed, by default.
