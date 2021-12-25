@@ -13,10 +13,10 @@ github_username: nickburrows
 show_downloads: "false" # ["true" or "false" (unquoted) to indicate whether to provide a download URL]
 # google_analytics: [Your Google Analytics tracking ID]
 
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: jekyll-theme-mistakes
+# remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-include-cache
   
