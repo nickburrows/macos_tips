@@ -1,4 +1,5 @@
 ---
+permalink: /mac/
 title: 'MacOS 鍵盤'
 ---
 
@@ -28,7 +29,7 @@ title: 'MacOS 鍵盤'
 
 [Mac 上選單中的符號代表什麼？](https://support.apple.com/zh-tw/guide/mac-help/cpmh0011/mac)
 
-### 鍵盤佈局與輸入
+## 鍵盤佈局與輸入
 
 在 Mac 上，按一下選單列上的「輸入法」選單，然後選擇「顯示模擬鍵盤」。
 
@@ -36,7 +37,7 @@ title: 'MacOS 鍵盤'
 
 ![20211223125215](https://raw.githubusercontent.com/nickburrows/picgo_assets/main/image/20211223125215.png)
 
-#### 注音
+### 注音
 
 使用注音輸入法時的虛擬鍵盤配置
 
@@ -46,7 +47,7 @@ title: 'MacOS 鍵盤'
 
 ![CleanShot 2021-12-23 at 12.44.10](https://raw.githubusercontent.com/nickburrows/picgo_assets/main/image/CleanShot%202021-12-23%20at%2012.44.10.png)
 
-#### 英文
+### 英文
 
 ![CleanShot 2021-12-23 at 12.48.08](https://raw.githubusercontent.com/nickburrows/picgo_assets/main/image/CleanShot%202021-12-23%20at%2012.48.08.png)
 

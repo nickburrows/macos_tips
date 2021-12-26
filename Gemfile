@@ -6,12 +6,16 @@ source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 
-gem "jekyll-github-metadata"
+gem "tzinfo-data"
+gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
-gem 'dotenv-rails', groups: [:development, :test]
-
+# If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
-  gem "jekyll-seo-tag", "~> 2.6"
+  gem "jekyll-paginate"
+  gem "jekyll-sitemap"
+  gem "jekyll-gist"
+  gem "jekyll-feed"
+  gem "jemoji"
   gem "jekyll-include-cache"
+  gem "jekyll-algolia"
 end
