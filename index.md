@@ -1,7 +1,9 @@
 ---
-title: 'MacOS 鍵盤'
----
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
+layout: home
+---
 ## 符號代表的特定按鍵
 
 | 符號 | 按鍵             |
