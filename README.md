@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+[![pages-build-deployment](https://github.com/nickburrows/nickburrows.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages&event=page_build)](https://github.com/nickburrows/nickburrows.github.io/actions/workflows/pages/pages-build-deployment)
+
 You can use the [editor on GitHub](https://github.com/nickburrows/macos_tips/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
