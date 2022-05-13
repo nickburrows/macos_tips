@@ -35,9 +35,19 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           
-      - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4.3.3
+      - name: convert notebooks and word docs to posts
+        uses: fastai/fastpages@master
+        
+      - name: Jekyll build
+        uses: docker://jekyll/jekyll
         with:
-          branch: main
-          folder: blog-posts
+          args: jekyll build
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.event_name == 'push'
+        with:
+          deploy_key: ${{ secrets.SSH_DEPLOY_KEY }}
+          publish_branch: gh-pages
+          publish_dir: ./_site
 
