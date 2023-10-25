@@ -30,6 +30,8 @@ twitter_username: jekyllrb
 github_username:  nickburrows
 repository: nickburrows.github.io
 
+google_analytics: G-7PP7822N09
+
 # Build settings
 # theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
