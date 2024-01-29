@@ -1,0 +1,48 @@
+[
+
+  {
+    "id": 18,
+    "base_weapon": 
+    {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Clock_Lancet.png?raw=true",
+      "name": "時鐘柳葉刀"
+    },
+    "passive_item": [
+       {
+        "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Silver_Ring.png?raw=true",
+        "name": "銀戒指"
+      },
+      {
+        "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Gold_Ring.png?raw=true",
+        "name": "金戒指"
+      }
+    ],
+    "evolution": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Infinite_Corridor.png?raw=true",
+      "name": "無限迴廊"
+    }
+  },
+  {
+    "id": 19,
+    "base_weapon": 
+    {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Laurel.png?raw=true",
+      "name": "月桂"
+    },
+    "passive_item": [
+      {
+        "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Metaglio_Left.png?raw=true",
+        "name": "右箭頭"
+      },
+      
+      {
+        "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Metaglio_Right.png?raw=true",
+        "name": "左箭頭"
+      }
+    ],
+    "evolution": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Crimson_Shroud.png?raw=true",
+      "name": "緋紅聖骸布"
+    }
+  }
+]

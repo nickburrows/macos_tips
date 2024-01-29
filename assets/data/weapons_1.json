@@ -1,0 +1,257 @@
+[
+  {
+    "id": 1,
+    "base_weapon": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Whip.png?raw=true",
+      "name": "神鞭"
+    },
+    "passive_item": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Hollow_Heart.png?raw=true",
+      "name": "空虛之心"
+    },
+    "evolution": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Bloody_Tear.png?raw=true",
+      "name": "血笞"
+    }
+  },
+  {
+    "id": 2,
+    "base_weapon": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Magic_Wand.png?raw=true",
+      "name": "強能魔杖"
+    },
+    "passive_item": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Empty_Tome.png?raw=true",
+      "name": "空白之書"
+    },
+    "evolution": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Holy_Wand.png?raw=true",
+      "name": "神授魔杖"
+    }
+  },
+  {
+    "id": 3,
+    "base_weapon": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Knife.png?raw=true",
+      "name": "飛刀"
+    },
+    "passive_item": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Bracer.png?raw=true",
+      "name": "護腕"
+    },
+    "evolution": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Thousand_Edge.png?raw=true",
+      "name": "千刃"
+    }
+  },
+  {
+    "id": 4,
+    "base_weapon": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Axe.png?raw=true",
+      "name": "斧頭"
+    },
+    "passive_item": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Candelabrador.png?raw=true",
+      "name": "燭台"
+    },
+    "evolution": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Death_Spiral.png?raw=true",
+      "name": "死亡炫風"
+    }
+  },
+  {
+    "id": 5,
+    "base_weapon": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Cross.png?raw=true",
+      "name": "十字飛鏢"
+    },
+    "passive_item": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Clover.png?raw=true",
+      "name": "四葉草"
+    },
+    "evolution": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Heaven_Sword.png?raw=true",
+      "name": "天堂之劍"
+    }
+  },
+  {
+    "id": 6,
+    "base_weapon": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/King_Bible.png?raw=true",
+      "name": "國王聖經"
+    },
+    "passive_item": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Spellbinder.png?raw=true",
+      "name": "咒縛盒"
+    },
+    "evolution": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Unholy_Vespers.png?raw=true",
+      "name": "瀆神禱書"
+    }
+  },
+  {
+    "id": 7,
+    "base_weapon": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Fire_Wand.png?raw=true",
+      "name": "火焰魔杖"
+    },
+    "passive_item": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Spinach.png?raw=true",
+      "name": "菠菜"
+    },
+    "evolution": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Hellfire.png?raw=true",
+      "name": "地獄火"
+    }
+  },
+  {
+    "id": 8,
+    "base_weapon": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Garlic.png?raw=true",
+      "name": "大蒜"
+    },
+    "passive_item": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Pummarola.png?raw=true",
+      "name": "癒傷番茄"
+    },
+    "evolution": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Soul_Eater.png?raw=true",
+      "name": "噬魂紋章"
+    }
+  },
+  {
+    "id": 9,
+    "base_weapon": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Santa_Water.png?raw=true",
+      "name": "聖徒水"
+    },
+    "passive_item": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Attractorb.png?raw=true",
+      "name": "念立法豬"
+    },
+    "evolution": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/La_Borra.png?raw=true",
+      "name": "聖徒精華"
+    }
+  },
+  {
+    "id": 10,
+    "base_weapon": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Runetracer.png?raw=true",
+      "name": "痕印石"
+    },
+    "passive_item": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Armor.png?raw=true",
+      "name": "護盔"
+    },
+    "evolution": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/NO_FUTURE.png?raw=true",
+      "name": "爆裂"
+    }
+  },
+  {
+    "id": 11,
+    "base_weapon": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Lightning_Ring.png?raw=true",
+      "name": "閃電戒指"
+    },
+    "passive_item": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Duplicator.png?raw=true",
+      "name": "雙鸞寶鐲"
+    },
+    "evolution": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Thunder_Loop.png?raw=true",
+      "name": "雷環"
+    }
+  },
+  {
+    "id": 12,
+    "base_weapon": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Pentagram.png?raw=true",
+      "name": "五芒星"
+    },
+    "passive_item": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Crown.png?raw=true",
+      "name": "玉冠"
+    },
+    "evolution": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Gorgeous_Moon.png?raw=true",
+      "name": "華月紋章"
+    }
+  },
+  {
+    "id": 13,
+    "base_weapon": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Gatti_Amari.png?raw=true",
+      "name": "彪悍貓"
+    },
+    "passive_item": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Stone_Mask.png?raw=true",
+      "name": "石面具"
+    },
+    "evolution": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Vicious_Hunger.png?raw=true",
+      "name": "饕惡魔眼"
+    }
+  },
+  {
+    "id": 14,
+    "base_weapon": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Song_of_Mana.png?raw=true",
+      "name": "魔力歌謠"
+    },
+    "passive_item": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Skull_O_27Maniac.png?raw=true",
+      "name": "瘋狂骷髏"
+    },
+    "evolution": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Mannajja.png?raw=true",
+      "name": "黑樂譜"
+    }
+  },
+  {
+    "id": 15,
+    "base_weapon": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Shadow_Pinion.png?raw=true",
+      "name": "暗影螺釘"
+    },
+    "passive_item": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Wings.png?raw=true",
+      "name": "翅膀"
+    },
+    "evolution": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Valkyrie_Turner.png?raw=true",
+      "name": "瓦爾基里噴槍"
+    }
+  },
+  {
+    "id": 16,
+    "base_weapon": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Flames_of_Misspell.png?raw=true",
+      "name": "惡咒火焰"
+    },
+    "passive_item": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Torrona_27s_Box.png?raw=true",
+      "name": "托羅娜的魔盒"
+    },
+    "evolution": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Ashes_of_Muspell.png?raw=true",
+      "name": "火焰國的灰燼"
+    }
+  },
+  {
+    "id": 17,
+    "base_weapon": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Glass_Fandango.png?raw=true",
+      "name": "玻璃花舞"
+    },
+    "passive_item": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Wings.png?raw=true",
+      "name": "翅膀"
+    },
+    "evolution": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Celestial_Voulge.png?raw=true",
+      "name": "天國刺戟"
+    }
+  }
+]
