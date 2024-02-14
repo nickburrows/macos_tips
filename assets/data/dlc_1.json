@@ -1,0 +1,84 @@
+[
+  {
+    "base_weapon": [
+      {
+        "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/SpellString.png?raw=true",
+        "name": "咒能魔線"
+      },
+      {
+        "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/SpellStream.png?raw=true",
+        "name": "咒能洪流"
+      },
+      {
+        "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/SpellStrike.png?raw=true",
+        "name": "咒能打擊"
+      }
+    ],
+    "evolutions/unions": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/SpellStrom.png?raw=true",
+      "name": "咒能風暴"
+    }
+  },
+  {
+    "base_weapon": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Eskizzibur.png?raw=true",
+      "name": "湖中劍"
+    },
+    "passive_item": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Armor.png?raw=true",
+      "name": "護盔"
+    },
+    "evolutions/unions": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Legionnaire.png?raw=true",
+      "name": "千軍斬"
+    }
+  },
+  {
+    "base_weapon": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Flash_Arrow.png?raw=true",
+      "name": "飛雷箭"
+    },
+    "passive_item": [
+      {
+        "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Bracer.png?raw=true",
+        "name": "護腕"
+      },
+      {
+        "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Clover.png?raw=true",
+        "name": "四葉草"
+      }
+    ],
+    "evolutions/unions": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Millionaire.png?raw=true",
+      "name": "百萬箭雨"
+    }
+  },
+  {
+    "base_weapon": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Prismatic_Missile.png?raw=true",
+      "name": "耀眼飛彈"
+    },
+    "passive_item": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Crown.png?raw=true",
+      "name": "王冠"
+    },
+    "evolutions/unions": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Luminaire.png?raw=true",
+      "name": "璀璨光芒"
+    }
+  },
+  {
+    "base_weapon": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Shadow_Servant.png?raw=true",
+      "name": "暗影僕從"
+    },
+    "passive_item": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Skull_O_27Maniac.png?raw=true",
+      "name": "瘋狂骷髏"
+    },
+    "evolutions/unions": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Ophion.png?raw=true",
+      "name": "蛇夫寶珠"
+    }
+  }
+]

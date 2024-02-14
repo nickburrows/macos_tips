@@ -1,0 +1,53 @@
+[
+  {
+    "id": 22,
+    "base_weapon": [
+      {
+        "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Phiera_Der_Tuphello.png?raw=true",
+        "name": "圖菲羅街市"
+      },
+      {
+        "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Eight_The_Sparrow.png?raw=true",
+        "name": "麻雀小八"
+      }
+    ],
+    "passive_item": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Phieraggi.png?raw=true",
+      "name": "提拉吉蘇"
+    },
+    "evolution": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Phieraggi.png?raw=true",
+      "name": "菲吉拉"
+    }
+  },
+  {
+    "id": 23,
+    "base_weapon": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Peachone.png?raw=true",
+      "name": "白鴿"
+    },
+    "passive_item": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Vandalier.png?raw=true",
+      "name": "黑翼"
+    },
+    "evolution": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Vandalier.png?raw=true",
+      "name": "摧鋒"
+    }
+  },
+  {
+    "id": 24,
+    "base_weapon": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Vento_Sacro.png?raw=true",
+      "name": "聖謨"
+    },
+    "passive_item": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Fuwalafuwaloo.png?raw=true",
+      "name": "血笞"
+    },
+    "evolution": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Fuwalafuwaloo.png?raw=true",
+      "name": "滌罪"
+    }
+  }
+]

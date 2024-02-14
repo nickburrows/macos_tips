@@ -1,0 +1,26 @@
+[
+  {
+    "id": 20,
+    "base_weapon": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Bracelet.png?raw=true",
+      "name": "魔環"
+    },
+    ,
+    "evolution": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Bi-Bracelet.png?raw=true",
+      "name": "雙魔環"
+    }
+  },
+  {
+    "id": 21,
+    "base_weapon": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Tri-Bracelet.png?raw=true",
+      "name": "雙魔環"
+    },
+    ,
+    "evolution": {
+      "image": "https://github.com/nickburrows/nickburrows.github.io/blob/gh-pages/assets/images/Vampire_Survivors_Weapons/Tri-Bracelet.png?raw=true",
+      "name": "三魔環"
+    }
+  }
+]
