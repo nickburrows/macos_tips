@@ -1,0 +1,54 @@
+---
+---
+
+@import "minimal-mistakes/skins/dark";
+@import "minimal-mistakes";
+
+table.wide {
+  width: 100%;
+  max-width: 100%;
+}
+
+table.inner-borders {
+  border-collapse: collapse;
+  border-style: hidden;
+  td {
+    border: 1px solid #5e5e5e;
+  }
+}
+table.vs-weapons {
+  border-collapse: collapse;
+  tr {
+    padding: 1px 6px;
+    text-align: center;
+    vertical-align: middle;
+  }
+  td {
+    border-bottom: 1px solid #5e5e5e;
+    background-color: #332726;
+  }
+  img {
+    width: 32px;
+    height: 32px;
+  }
+}
+
+.social-icons {
+  li:nth-child(1) {
+    color: #1da1f2;
+  }
+  li:nth-child(3) {
+    background: radial-gradient(
+      circle at 30% 107%,
+      #fdf497 0%,
+      #fdf497 5%,
+      #fd5949 45%,
+      #d6249f 60%,
+      #285aeb 90%
+    );
+    -webkit-background-clip: text;
+    /* Also define standard property for compatibility */
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+}
